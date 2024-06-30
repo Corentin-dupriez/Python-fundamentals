@@ -12,4 +12,3 @@ class Weapon:
 
     def __repr__(self):
         return f'Remaining bullets: {self.bullets}'
-
